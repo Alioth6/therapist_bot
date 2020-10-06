@@ -1,1 +1,1 @@
-web: python therapist_bot.py
+bot: python therapist_bot.py
